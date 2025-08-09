@@ -1,0 +1,34 @@
+Main Palette
+
+Role	Color	Hex
+Primary	Teal Green	#1AA890
+Secondary	Light Aqua	#7DCDDF
+Accent	Vibrant Red	#F87171
+Dark Neutral	Charcoal Gray	#2B2B2B
+Light Neutral	Soft Warm Gray	#F5F5F5
+
+💡 Extended Shades for Depth
+
+Primary Dark → #148773 (for hover states / emphasis)
+
+Primary Light → #A4E1D9 (for backgrounds / subtle highlights)
+
+Secondary Dark → #5BAEBF
+
+Secondary Light → #C3EEF4
+
+Accent Dark → #DC2626 (for warnings or strong CTAs)
+
+Accent Light → #FECACA
+
+📐 Suggested Usage
+
+Primary (#1AA890) → Brand identity, CTA buttons, headers
+
+Secondary (#7DCDDF) → Secondary buttons, info highlights, card backgrounds
+
+Accent (#F87171) → Alerts, error messages, or high-contrast highlights
+
+Dark Neutral (#2B2B2B) → Text on light backgrounds
+
+Light Neutral (#F5F5F5) → General background for a clean, breathable layout
