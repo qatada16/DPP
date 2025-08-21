@@ -1,0 +1,24 @@
+{
+  "name": "dpp-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --host",
+    "build": "vite build",
+    "frontend": "npm install && cd frontend && npm install && npm install lucide-react@latest && npm run dev",
+    "start": "npm run frontend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qatada16/DPP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qatada16/DPP/issues"
+  },
+  "homepage": "https://github.com/qatada16/DPP#readme",
+  "description": ""
+}
